@@ -36,7 +36,7 @@ class   PropertyActivity : AppCompatActivity()
         setContentView(R.layout.activity_property)
 
         recyclerView = findViewById(R.id.property_recycler_view)
-
+        //recyclerView
         homeType = findViewById(R.id.home_type)
         price = findViewById(R.id.tv_price)
         location = findViewById(R.id.tv_location)
