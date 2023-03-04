@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Sample/Location/app/src/main/res/drawable/custom_design_button.xml" value="0.148" />
+        <entry key="..\:/Sample/Location/app/src/main/res/drawable/location.xml" value="0.193" />
+        <entry key="..\:/Sample/Location/app/src/main/res/drawable/round_shape_icon.xml" value="0.148" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_bottom.xml" value="0.1765625" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_favourite_list.xml" value="0.15570175438596492" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_kotlin_dashboard.xml" value="0.2" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_kotlin_login.xml" value="0.1765625" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_kotlin_register.xml" value="0.17" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_kotlin_splash.xml" value="0.14868421052631578" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_main.xml" value="0.1765625" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_property.xml" value="0.2" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/activity_splash.xml" value="0.1765625" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/bottom_sheet_item.xml" value="0.15570175438596492" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.22" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/call_list.xml" value="0.1765625" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/custom_dialog.xml" value="0.1765625" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/favourite_list_view.xml" value="0.25" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/fragment_account.xml" value="0.1765625" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/fragment_contact.xml" value="0.1765625" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/fragment_favorite.xml" value="0.15570175438596492" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/fragment_home.xml" value="0.1765625" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/fragment_kotlin_account.xml" value="0.15570175438596492" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/property_feature_item.xml" value="0.22" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/property_item_adapeter.xml" value="0.18" />
+        <entry key="..\:/Sample/Location/app/src/main/res/layout/similar_property_item.xml" value="0.25" />
+        <entry key="..\:/Sample/Location/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1765625" />
+        <entry key="..\:/Sample/Location/app/src/main/res/menu/side_nav_menu.xml" value="0.1765625" />
+        <entry key="..\:/Software/sdk/platforms/android-33/data/res/layout/simple_list_item_2.xml" value="0.1765625" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
